@@ -1,0 +1,1 @@
+# myclass_template
